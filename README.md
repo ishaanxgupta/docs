@@ -149,9 +149,9 @@ The drawing mode is visually indicated:
 
 **During Drawing:**
 
-
-
-* **Color and Drawing Mode:** Right-click (or long press with touch controls) to open a menu ![Annot Menu](imgs/Annot-Menu.png). Adjust the color or drawing mode during the annotation process.
+* **Color and Drawing Mode:** Right-click (or long press with touch controls) to open a menu. Adjust the color or drawing mode during the annotation process.  
+  ![Annot Menu](imgs/Annot-Menu.png)
+  
 * **Drawing Modes:** By default, the drawing mode is freehand. Change it to a rectangle, point annotation, or a polygon of connected points.
 
 
